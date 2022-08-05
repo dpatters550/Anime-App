@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8bde79a-30fe-4879-a15f-c500e4138882" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ui/tvshow-app/src/components/Instructions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/tvshow-app" beforeDir="false" afterPath="$PROJECT_DIR$/ui/tvshow-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/tvshow-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ui/tvshow-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/tvshow-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ui/tvshow-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/tvshow-app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/ui/tvshow-app/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/tvshow-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/ui/tvshow-app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/tvshow-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/ui/tvshow-app/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2CRcZPWEo54e3N8GdjU7JSFVL3e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/A#4"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8bde79a-30fe-4879-a15f-c500e4138882" name="Changes" comment="" />
+      <created>1658768892391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658768892391</updated>
+    </task>
+    <servers />
+  </component>
+</project>
